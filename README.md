@@ -11,14 +11,12 @@ Below are the results of applying wave effects to images:
 
 2. **Vertical Wave Effect:**
 
-![Vertical Wave Effect](Vertical_wave.jpg)
-<img src="Vertical_wave" alt="Vertical Wave Effect" width="300" height ="300">
+<img src="Vertical_wave.jpg" alt="Vertical Wave Effect" width="300" height ="300">
 
 
 3. **Horizontal and Vertical Wave Effect:**
 
-![Horizontal and Vertical Wave Effect](Wave_effect.jpg)
-<img src="Wave_effect" alt="Wave Effect" width="300" height ="300">
+<img src="Wave_effect.jpg" alt="Wave Effect" width="300" height ="300">
 
 
 These images demonstrate the distortions created by applying horizontal, vertical, or both horizontal and vertical wave effects using the provided script.
