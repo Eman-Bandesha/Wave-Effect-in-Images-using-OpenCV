@@ -7,15 +7,15 @@ Below are the results of applying wave effects to images:
 
 1. **Horizontal Wave Effect:**
 
-![Horizontal Wave Effect](results/horizontal_wave.jpg)
+![Horizontal Wave Effect](Horizontal_wave.jpg)
 
 2. **Vertical Wave Effect:**
 
-![Vertical Wave Effect](results/vertical_wave.jpg)
+![Vertical Wave Effect](Vertical_wave.jpg)
 
 3. **Horizontal and Vertical Wave Effect:**
 
-![Horizontal and Vertical Wave Effect](results/wave_effect.jpg)
+![Horizontal and Vertical Wave Effect](Wave_effect.jpg)
 
 These images demonstrate the distortions created by applying horizontal, vertical, or both horizontal and vertical wave effects using the provided script.
 
