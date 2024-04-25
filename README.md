@@ -26,3 +26,6 @@ Below are the results of applying wave effects to images:
 These images demonstrate the distortions created by applying horizontal, vertical, or both horizontal and vertical wave effects using the provided script.
 
 You can find the script and images in the GitHub repository [here](https://github.com/Eman-Bandesha/Wave-Effect-in-Images-using-OpenCV/blob/main/wave_efffects_using_opencv.ipynb).
+
+## Contributors
+- [Eman Azam](https://github.com/Eman-Bandesha)
