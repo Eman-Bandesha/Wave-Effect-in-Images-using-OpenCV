@@ -7,7 +7,7 @@ Below are the results of applying wave effects to images:
 
 1. **Horizontal Wave Effect:**
 
-![Horizontal Wave Effect](Horizontal_wave.jpg)
+<img src="Horizontal_wave.jpg" alt="Horizontal Wave Effect" width="400">
 
 2. **Vertical Wave Effect:**
 
