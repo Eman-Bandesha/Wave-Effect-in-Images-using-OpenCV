@@ -5,18 +5,10 @@ Applying wave effects to images using OpenCV. This script demonstrates how to ap
 
 Below are the results of applying wave effects to images:
 
-1. **Horizontal Wave Effect:**
+| **Horizontal Wave Effect** | **Vertical Wave Effect** | **Horizontal and Vertical Wave Effect** |
+|:--------------------------:|:------------------------:|:---------------------------------------:|
+| <img src="Horizontal_wave.jpg" alt="Horizontal Wave Effect" width="300" height="300"> | <img src="Vertical_wave.jpg" alt="Vertical Wave Effect" width="300" height="300"> | <img src="Wave_effect.jpg" alt="Wave Effect" width="300" height="300"> |
 
-<img src="Horizontal_wave.jpg" alt="Horizontal Wave Effect" width="300" height ="=300">
-
-2. **Vertical Wave Effect:**
-
-<img src="Vertical_wave.jpg" alt="Vertical Wave Effect" width="300" height ="300">
-
-
-3. **Horizontal and Vertical Wave Effect:**
-
-<img src="Wave_effect.jpg" alt="Wave Effect" width="300" height ="300">
 
 
 These images demonstrate the distortions created by applying horizontal, vertical, or both horizontal and vertical wave effects using the provided script.
